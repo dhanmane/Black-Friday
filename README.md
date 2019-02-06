@@ -13,4 +13,5 @@ Model.ipynb - Random Forest and XGB models.
 Appendix- Other approaches.
 
 
-![alt text]
+![alt text](https://github.com/dhanmane/Black-Friday/blob/master/data/newdf.PNG)
+
