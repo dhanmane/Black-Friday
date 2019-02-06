@@ -13,5 +13,7 @@ Model.ipynb - Random Forest and XGB models.
 Appendix- Other approaches.
 
 
+# Feature Engineered Data:
+
 ![alt text](https://github.com/dhanmane/Black-Friday/blob/master/data/newdf.PNG)
 
